@@ -19,7 +19,7 @@ Performance benchmarking & error handling
 ## Getting Started
 
 ### Prerequisites
-Before running this project, ensure you have:
+Before running this project, I had to make sure to have:
 - **.NET SDK** installed ([Download here](https://dotnet.microsoft.com/download))
 - **Git** installed ([Download here](https://git-scm.com/downloads))
 - A code editor Visual Studio Code
